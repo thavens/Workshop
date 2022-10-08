@@ -1,0 +1,4 @@
+git config --global user.name 
+git config --global user.email 
+git config --global init.defaultBranch main
+git remote set-url origin https://github.com/thavens/Workshop.git
